@@ -9,9 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshan-cd&label=Profile%20views&color=0e75b6&style=flat" alt="lakshan-cd" /> </p>
 
-- 🔭 I’m currently working on **Rent houses online platform**
-
-- 🌱 I’m currently learning **react , react native**
+- 🔭 I’m currently working on **ICP TECHNOLOGIES - Sri Lanka**
 
 
 
