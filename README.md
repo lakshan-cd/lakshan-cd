@@ -2,7 +2,10 @@
   <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Lakshan Chamara</h1>
-<h3 align="center">I am an undergraduate student pursuing a degree in Information Technology <br> at the University of Moratuwa, Sri Lanka.</h3>
+## About Me
+
+I am a full-stack developer from Sri Lanka with a passion for building scalable and efficient web applications. I specialize in using **Spring Boot** for back-end development and **Next.js** for front-end projects. I am experienced with a wide range of technologies including **React.js**, **React Native**, **MySQL** and **MongoDB**. Additionally, I work with cloud platforms like **AWS** and **Azure**. I am always eager to explore new tools, improve my skills, and contribute to impactful projects.
+
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966 "/>
 
