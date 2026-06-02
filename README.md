@@ -1,33 +1,93 @@
 <div align="center">
-  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="MasterHead">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Lakshan+Chamara;Full+Stack+Developer;Building+Scalable+Web+Applications;Spring+Boot+%7C+.NET+%7C+NextJS;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
-<h1 align="center">Hi 👋, I'm Lakshan Chamara</h1>
 
-I am a full-stack developer from Sri Lanka with a passion for building scalable and efficient web applications. I specialize in using **Spring Boot** for back-end development and **Next.js** for front-end projects. I am experienced with a wide range of technologies including **React.js**, **React Native**, **MySQL** and **MongoDB**. Additionally, I work with cloud platforms like **AWS** and **Azure**. I am always eager to explore new tools, improve my skills, and contribute to impactful projects.
+<br/>
 
+<div align="center">
+  <a href="https://www.lakshanchamara.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-lakshanchamara.com-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/lakshan-chamara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Lakshan_Chamara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kdlc.info@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kdlc.info@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966 "/>
+<br/>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshan-cd&label=Profile%20views&color=0e75b6&style=flat" alt="lakshan-cd" /> </p>
-
-- 🔭 I’m currently working on **ICP TECHNOLOGIES - Sri Lanka**
-
-
-
-- 📫 How to reach me **kdlc.info@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lakshan-chamara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshan-chamara" height="30" width="40" /></a>
-<a href="https://instagram.com/chami.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chami.x" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lakshan-cd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshan-cd&show_icons=true&locale=en&layout=compact" alt="lakshan-cd" /></p>
+### About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshan-cd&show_icons=true&locale=en" alt="lakshan-cd" /></p>
+I'm a **Full Stack Developer** from **Sri Lanka**, passionate about building scalable and efficient web applications. I specialize in **Spring Boot** for backend development and **Next.js** for frontend projects, with hands-on experience across **React**, **React Native**, **.NET**, and cloud platforms like **AWS** and **Azure**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan-cd&" alt="lakshan-cd" /></p>
+Currently working as a **Software Engineer** at **[ICP Technologies](https://www.icptechnologies.com/)**, where I build production-grade solutions with Spring Boot, Next.js, and Azure DevOps.
+
+🌐 **Portfolio:** [lakshanchamara.com](https://www.lakshanchamara.com/)
+
+---
+
+### Currently
+
+- 🔭 **Software Engineer** @ ICP Technologies
+- 🌱 Exploring **.NET**, **TypeScript**, and cloud-native architectures
+- 📝 Writing about Spring Boot & JPQL on my [portfolio blog](https://www.lakshanchamara.com/)
+- 📫 Reach me at **kdlc.info@gmail.com**
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,react,nextjs,tailwind,bootstrap,php,laravel,dotnet,cs,python,c,mysql,mongodb,redis,azure,aws,git,figma,postman,vscode,idea&perline=12" alt="Tech stack" />
+  </a>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshan-cd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=lakshan-cd&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan-cd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+---
+
+### Connect with Me
+
+<p align="left">
+  <a href="https://www.lakshanchamara.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-lakshanchamara.com-0E75B6?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/lakshan-chamara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-lakshan--chamara-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/chami.x" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-chami.x-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:kdlc.info@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kdlc.info@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer&text=Thank%20You%20for%20Visiting&fontSize=20&fontColor=ffffff&animation=fadeIn"
+    alt="Footer"
+  />
+</div>
